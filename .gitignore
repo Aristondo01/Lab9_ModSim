@@ -1,1 +1,4 @@
 myenv
+.dist
+.vscode
+frames_simulation
